@@ -1,4 +1,4 @@
-# Basic-RISC-V-CPU
+# RISC-V-CPU
 
 一个基于 RISC-V 指令集的五级流水线 CPU 设计，支持中断、UART、GPIO 和定时器外设。
 
@@ -122,7 +122,7 @@ TIMER	0x1000_2000	4KB
 本项目仅供学习交流使用。
 
 
-# Basic-RISC-V-CPU
+# RISC-V-CPU
 
 A 5-stage pipeline RISC-V CPU design with interrupt support, UART, GPIO, and Timer peripherals.
 
